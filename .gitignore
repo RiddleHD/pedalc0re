@@ -42,6 +42,7 @@ Thumbs.db
 # User presets (only keep .gitkeep)
 presets/*
 !presets/.gitkeep
+src/gui/presets/
 
 # PyInstaller
 *.spec
