@@ -22,7 +22,7 @@ A modern, powerful tool that makes racing games (ACC, iRacing, RaceRoom, etc.) d
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/pedalc0re
+git clone https://github.com/RiddleHD/pedalc0re
 cd pedalc0re
 
 # 2. Install dependencies
