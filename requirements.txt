@@ -1,0 +1,9 @@
+# PedalC0re - Python Dependencies
+
+# Device handling
+evdev>=1.6.0
+
+# Modern GUI Framework
+customtkinter>=5.2.0
+
+# Note: Python 3 with tkinter is required (usually pre-installed)
