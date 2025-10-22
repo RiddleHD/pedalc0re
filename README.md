@@ -123,7 +123,7 @@ SDL_JOYSTICK_DEVICE=/dev/input/js2 %command%
 
 ### Quick Install
 ```bash
-git clone https://github.com/YOUR_USERNAME/pedalc0re
+git clone https://github.com/RiddleHD/pedalc0re
 cd pedalc0re
 pip3 install --user -r requirements.txt
 ```
@@ -194,7 +194,7 @@ MIT License - See [LICENSE](LICENSE) file
 
 Found a bug? Want to add support for your pedals?
 
-1. Open an [Issue](https://github.com/YOUR_USERNAME/pedalc0re/issues)
+1. Open an [Issue](https://github.com/RiddleHD/pedalc0re/issues)
 2. Submit a Pull Request
 3. Share your setup!
 
