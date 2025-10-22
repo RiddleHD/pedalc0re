@@ -1,7 +1,9 @@
 #!/bin/bash
 # PedalC0re Launcher - Shows errors if crash
 
-cd "/var/home/pierrel/Downloads/SEC TOOL/simsonn-manager-py/src"
+# Get the directory where this script is located
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+cd "$SCRIPT_DIR/src"
 python3 main.py
 
 # If app crashes, show error
